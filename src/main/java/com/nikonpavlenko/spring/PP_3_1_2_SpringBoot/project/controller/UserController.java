@@ -2,7 +2,6 @@ package com.nikonpavlenko.spring.PP_3_1_2_SpringBoot.project.controller;
 
 import com.nikonpavlenko.spring.PP_3_1_2_SpringBoot.project.model.User;
 import com.nikonpavlenko.spring.PP_3_1_2_SpringBoot.project.service.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
