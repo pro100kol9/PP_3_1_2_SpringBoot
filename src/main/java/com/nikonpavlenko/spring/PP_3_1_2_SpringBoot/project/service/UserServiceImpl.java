@@ -12,7 +12,6 @@ import java.util.List;
 public class UserServiceImpl implements UserService {
     UserDao userDao;
 
-    @Autowired
     public UserServiceImpl(UserDao userDao) {
         this.userDao = userDao;
     }
